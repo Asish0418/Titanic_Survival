@@ -2,7 +2,7 @@
 Different parameters relating to the rate of survival of passengers in the 'Titanic' tragedy.
 
 Titanic data set is a interesting data set, which gives the insights about the tragedy happened with the titanic voyage.
-We here will compare the variables with the rate of survival by getting the relation between them about how the survival rate is affected.
+Here we will compare the variables with the rate of survival by getting the relation between them about how the survival rate is affected.
 Steps-
 a)Get the data.
 b)Split the data set into training and testing data.
